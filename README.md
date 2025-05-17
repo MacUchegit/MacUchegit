@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Honeypot Project</b>
-  - [Honeypot Project](https://github.com/MacUchegit/Honeypot-Security-Monitoring/blob/b5248160855ae3a45c27bda1a162ae58e23e56ef/README.md)
+  - [Honeypot Project](https://github.com/MacUchegit/Honeypot-Threat-Detection-and-Visualization/blob/5eefb42803f9f0cc95db24647c24083381e64109/README.md)
 - <b>SIEM Analysis Projects</b>
   - [Phising Alert Investigation](https://github.com/MacUchegit/Phising-Alert-Investigation-/tree/add2e2ebf4f250a2f679e1ec1fd1396506e90794)
   - [SOC336---Windows-OLE-Zero-Click-RCE-Exploitation-Investigation](https://github.com/MacUchegit/SOC336---Windows-OLE-Zero-Click-RCE-Exploitation-Investigation)
