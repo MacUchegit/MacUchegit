@@ -10,6 +10,7 @@
   - [Cross-Site-Scripting XSS Attack Investigation](https://github.com/MacUchegit/Cross-Site-Scripting-XSS-Attack-Investigation)
   - [Investigating An SQL Injection Attack](https://github.com/MacUchegit/SQL-injection-investigation)
   - [Investigating A Command Injection Attack](https://github.com/MacUchegit/Command-Injection-Attack)
+  - [Investigating a Possible Local File Inclusion LFI Attack](https://github.com/MacUchegit/Investigating-a-Possible-Local-File-Inclusion-LFI-Attack/blob/bb6b1399cfeb0c31e1a1f3bcbc5b44ee5b73e786/README.md)
 
 <h2>📺 Popular YouTube Videos</h2>
 
