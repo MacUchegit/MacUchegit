@@ -9,6 +9,7 @@
   - [SOC336---Windows-OLE-Zero-Click-RCE-Exploitation-Investigation](https://github.com/MacUchegit/SOC336---Windows-OLE-Zero-Click-RCE-Exploitation-Investigation)
   - [Cross-Site-Scripting XSS Attack Investigation](https://github.com/MacUchegit/Cross-Site-Scripting-XSS-Attack-Investigation)
   - [Investigating An SQL Injection Attack](https://github.com/MacUchegit/SQL-injection-investigation)
+  - [Investigating A Command Injection Attack](https://github.com/MacUchegit/Command-Injection-Attack)
 
 <h2>📺 Popular YouTube Videos</h2>
 
