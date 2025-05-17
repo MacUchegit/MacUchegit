@@ -7,7 +7,7 @@
 - <b>SIEM Analysis Projects</b>
   - [Phising Alert Investigation](https://github.com/MacUchegit/Phising-Alert-Investigation-/tree/add2e2ebf4f250a2f679e1ec1fd1396506e90794)
   - [SOC336---Windows-OLE-Zero-Click-RCE-Exploitation-Investigation](https://github.com/MacUchegit/SOC336---Windows-OLE-Zero-Click-RCE-Exploitation-Investigation)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Cross-Site-Scripting XSS Attack Investigation](https://github.com/MacUchegit/Cross-Site-Scripting-XSS-Attack-Investigation)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
 <h2>📺 Popular YouTube Videos</h2>
