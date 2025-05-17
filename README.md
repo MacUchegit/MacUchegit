@@ -1,4 +1,4 @@
-<h1>Hi, I'm McDonald<br/><a href="https://github.com/MacUchegit/MacUchegit">Technical Support Specialist</a>, <a href="https://github.com/MacUchegit/MacUchegit">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm McDonald<br/><br/><a href="https://github.com/MacUchegit/MacUchegit">Technical Support Specialist</a> , <a href="https://github.com/MacUchegit/MacUchegit">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
