@@ -1,5 +1,11 @@
 <h1>Hi, I'm McDonald<br/><br/><a href="https://github.com/MacUchegit/MacUchegit">Technical Support Specialist</a> | <a href="https://github.com/MacUchegit/MacUchegit">Cybersecurity Professional</a></h1>
 
+<h2>📌 About Me</h2>
+
+<p>
+I’m a passionate Technical Support Specialist and budding Cybersecurity Professional who loves digging into problems and finding smart, secure solutions. With a strong foundation in IT support and a growing toolkit in threat detection, incident response, and security analysis, I thrive on making systems safer and more reliable. Whether it's through hands-on labs, real-world simulations, or collaborative learning, I’m always eager to grow, share, and contribute to a secure digital world.
+</p>
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Honeypot Project</b>
@@ -13,26 +19,17 @@
   - [Investigating a Possible Local File Inclusion LFI Attack](https://github.com/MacUchegit/Investigating-a-Possible-Local-File-Inclusion-LFI-Attack/blob/bb6b1399cfeb0c31e1a1f3bcbc5b44ee5b73e786/README.md)
   - [Understanding False Positives in SIEM](https://github.com/MacUchegit/False-Positive/blob/6455746c7edbffbdc49198070fe9f6775b1cfc52/README.md)
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)][youtube]
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)][twitter]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: www.linkedin.com/in/mcdonald-onyekwere-uchenna
-
+[twitter]: https://
+[youtube]: https://
+[instagram]: https://
+[linkedin]: https://www.linkedin.com/in/mcdonald-onyekwere-uchenna
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
