@@ -10,6 +10,7 @@ I’m a passionate Technical Support Specialist and budding Cybersecurity Profes
 
 - <b>Honeypot Project</b>
   - [Honeypot Threat Detection and Visualization](https://github.com/MacUchegit/Honeypot-Threat-Detection-and-Visualization)
+- <b>Vunerability Management Project</b>
   - [Vunerability Scanning and Remediation (Tenable)](https://github.com/MacUchegit/Vunerability-Scan-Tenable-/blob/731a1db05c557e82c7eb6b827b407daf3447c68a/README.md)
 - <b>SIEM Analysis Projects</b>
   - [Phising Alert Investigation](https://github.com/MacUchegit/Phising-Alert-Investigation-/tree/add2e2ebf4f250a2f679e1ec1fd1396506e90794)
