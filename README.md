@@ -20,6 +20,7 @@ I’m a passionate Technical Support Specialist and budding Cybersecurity Profes
   - [Investigating A Command Injection Attack](https://github.com/MacUchegit/Command-Injection-Attack)
   - [Investigating a Possible Local File Inclusion LFI Attack](https://github.com/MacUchegit/Investigating-a-Possible-Local-File-Inclusion-LFI-Attack/blob/bb6b1399cfeb0c31e1a1f3bcbc5b44ee5b73e786/README.md)
   - [Understanding False Positives in SIEM](https://github.com/MacUchegit/False-Positive/blob/6455746c7edbffbdc49198070fe9f6775b1cfc52/README.md)
+  - [Malicious File/Script Download Attempt](https://github.com/MacUchegit/Malicious-File-Script-Download-Attempt/blob/60a279dd00c0e4cd50f8f0f57c76a94a726ba99d/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
