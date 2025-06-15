@@ -22,6 +22,16 @@ I’m a passionate Technical Support Specialist and budding Cybersecurity Profes
   - [Understanding False Positives in SIEM](https://github.com/MacUchegit/False-Positive/blob/6455746c7edbffbdc49198070fe9f6775b1cfc52/README.md)
   - [Malicious File/Script Download Attempt](https://github.com/MacUchegit/Malicious-File-Script-Download-Attempt/blob/60a279dd00c0e4cd50f8f0f57c76a94a726ba99d/README.md)
 
+<h2>🛡️ Certifications & Trainings</h2> 
+
+* **CompTIA Security+** *(Expected 07/25)*
+
+* *[Google Cybersecurity Professional Certificate (v2)](https://www.credly.com/badges/54404851-3d45-4788-b605-b117c7ba036c/linked_in_profile)*
+  - *Skills:* Linux, MySQL, and Python hands-on labs
+
+* *[SOC Analyst Learning Path – Let’sDefend](https://app.letsdefend.io/certificate/show/7b6d9df3-4872-41f0-9be6-067d3a4020ad)*
+  - *Skills:* SIEM alert analysis, MITRE ATT\&CK, malware investigation, network log analysis, incident response, and threat intelligence
+
 <h2> 🤳 Connect with me:</h2>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)][youtube]
