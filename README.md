@@ -35,7 +35,7 @@ I’m a passionate Technical Support Specialist and budding Cybersecurity Profes
 
 <h2> 🤳 Connect with me:</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
 [twitter]: https://
 [youtube]: https://
