@@ -33,6 +33,9 @@ I’m a passionate Technical Support Specialist and budding Cybersecurity Profes
 * *[SOC Analyst Learning Path – Let’sDefend](https://app.letsdefend.io/certificate/show/7b6d9df3-4872-41f0-9be6-067d3a4020ad)*
   - *Skills:* SIEM alert analysis, MITRE ATT\&CK, malware investigation, network log analysis, incident response, and threat intelligence
 
+* *[Qualys Vulnerability Management Foundation](https://qualys.sumtotal.host/learning/DataStore/QUALYS_PROD/Learning/Data/ExportToPDF/Diploma_9d4ad820-ab91-4a11-ac09-e9313d9c0554.pdf)*
+  - Skills: Vulnerability scanning, asset discovery, risk prioritization, remediation validation, and report interpretation.  
+
 <h2> 🤳 Connect with me:</h2>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
