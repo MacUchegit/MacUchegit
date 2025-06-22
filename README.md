@@ -1,6 +1,6 @@
 <h1>Hi, I'm McDonald<br/><br/><a href="https://github.com/MacUchegit/MacUchegit">Technical Support Specialist</a> | <a href="https://github.com/MacUchegit/MacUchegit">Cybersecurity Professional</a></h1>
 
-<h2>📌 About Me</h2>
+<h2>📌 About Me</h2> 
 
 <p>
 I’m a passionate Technical Support Specialist and budding Cybersecurity Professional who loves digging into problems and finding smart, secure solutions. With a strong foundation in IT support and a growing toolkit in threat detection, incident response, and security analysis, I thrive on making systems safer and more reliable. Whether it's through hands-on labs, real-world simulations, or collaborative learning, I’m always eager to grow, share, and contribute to a secure digital world.
@@ -13,7 +13,7 @@ I’m a passionate Technical Support Specialist and budding Cybersecurity Profes
 - <b>Vunerability Management Lab</b>
   - [Vunerability Scanning and Remediation (Tenable)](https://github.com/MacUchegit/Vunerability-Scan-Tenable-/blob/731a1db05c557e82c7eb6b827b407daf3447c68a/README.md)
 - <b>SIEM Analysis Projects</b>
-  - [Ransomware Analysis](https://github.com/MacUchegit/Ransomware-Analysis/blob/main/README.md)
+  - [Ransomware Detection & Investigation](https://github.com/MacUchegit/Ransomware-Analysis/blob/main/README.md)
   - [Investigating the Utilman.exe Winlogon Exploit Attempt](https://github.com/MacUchegit/Investigating-the-Utilman.exe-Winlogon-Exploit-Attempt/blob/3a7d7e9de56946a4da193d2b4ff137796d3a2f2b/README.md)
   - [Phising Alert Investigation](https://github.com/MacUchegit/Phising-Alert-Investigation-/tree/add2e2ebf4f250a2f679e1ec1fd1396506e90794)
   - [SOC336---Windows-OLE-Zero-Click-RCE-Exploitation-Investigation](https://github.com/MacUchegit/SOC336---Windows-OLE-Zero-Click-RCE-Exploitation-Investigation)
