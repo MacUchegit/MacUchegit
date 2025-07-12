@@ -13,6 +13,7 @@ I’m a passionate Technical Support Specialist and budding Cybersecurity Profes
 - <b>Vunerability Management Lab</b>
   - [Vunerability Scanning and Remediation (Tenable)](https://github.com/MacUchegit/Vunerability-Scan-Tenable-/blob/731a1db05c557e82c7eb6b827b407daf3447c68a/README.md)
 - <b>SIEM Analysis Projects</b>
+  - [Detecting and Analyzing CVE-2024-24919 Exploitation](https://github.com/MacUchegit/Detecting-and-Analyzing-CVE-2024-24919-Exploitation/blob/main/README.md)
   - [Ransomware Detection & Investigation](https://github.com/MacUchegit/Ransomware-Analysis/blob/main/README.md)
   - [Investigating the Utilman.exe Winlogon Exploit Attempt](https://github.com/MacUchegit/Investigating-the-Utilman.exe-Winlogon-Exploit-Attempt/blob/3a7d7e9de56946a4da193d2b4ff137796d3a2f2b/README.md)
   - [Phising Alert Investigation](https://github.com/MacUchegit/Phising-Alert-Investigation-/tree/add2e2ebf4f250a2f679e1ec1fd1396506e90794)
