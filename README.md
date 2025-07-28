@@ -14,6 +14,7 @@ I’m a passionate Technical Support Specialist and budding Cybersecurity Profes
   - [Vunerability Scanning and Remediation (Tenable)](https://github.com/MacUchegit/Vunerability-Scan-Tenable-/blob/731a1db05c557e82c7eb6b827b407daf3447c68a/README.md)
 - <b>Forage Internship Program</b>
   - [AIG-Log4j Zero-Day Response: Threat Analysis & Ransomware Mitigation](https://github.com/MacUchegit/Virtual-Cybersecurity-Internship-Threat-Response-Mitigation-Project/)
+  - [DATACOM : Cybersecurity Risk Assessment](https://github.com/MacUchegit/Risk-Assessment-Project-/blob/main/README.md)
 - <b>SIEM Analysis Projects</b>
   - [Detecting and Analyzing CVE-2024-24919 Exploitation](https://github.com/MacUchegit/Detecting-and-Analyzing-CVE-2024-24919-Exploitation/blob/main/README.md)
   - [Ransomware Detection & Investigation](https://github.com/MacUchegit/Ransomware-Analysis/blob/main/README.md)
