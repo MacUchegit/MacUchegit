@@ -16,6 +16,7 @@ I’m a passionate Technical Support Specialist and budding Cybersecurity Profes
   - [AIG-Log4j Zero-Day Response: Threat Analysis & Ransomware Mitigation](https://github.com/MacUchegit/Virtual-Cybersecurity-Internship-Threat-Response-Mitigation-Project/)
   - [DATACOM : Cybersecurity Risk Assessment](https://github.com/MacUchegit/Risk-Assessment-Project-/blob/main/README.md)
 - <b>SIEM Analysis Projects</b>
+  - [Investigating a Possible Malicious Macro Execution](https://github.com/MacUchegit/Malicious-Macro-Execution/blob/main/README.md)
   - [Detecting and Analyzing CVE-2024-24919 Exploitation](https://github.com/MacUchegit/Detecting-and-Analyzing-CVE-2024-24919-Exploitation/blob/main/README.md)
   - [Ransomware Detection & Investigation](https://github.com/MacUchegit/Ransomware-Analysis/blob/main/README.md)
   - [Investigating the Utilman.exe Winlogon Exploit Attempt](https://github.com/MacUchegit/Investigating-the-Utilman.exe-Winlogon-Exploit-Attempt/blob/3a7d7e9de56946a4da193d2b4ff137796d3a2f2b/README.md)
