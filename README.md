@@ -14,6 +14,8 @@ I’m a passionate Technical Support Specialist and budding Cybersecurity Profes
   - [Vunerability Scanning and Remediation (Tenable)](https://github.com/MacUchegit/Vunerability-Scan-Tenable-/blob/731a1db05c557e82c7eb6b827b407daf3447c68a/README.md)
 - <b>Cryptology</b>
   - [Hands On File and Message Security on Ubuntu](https://github.com/MacUchegit/Hands-On-File-and-Message-Security-on-Ubuntu/blob/main/README.md)
+- <b>Network Security</b>
+  - [Router Security and ACL Implementation](https://github.com/MacUchegit/Firewall-Access-Control-Cisco-Packet-Tracer-/blob/4feec751dae3e17bfe886c1f2df540b3559974a9/README.md)
 - <b>Forage Internship Program</b>
   - [AIG-Log4j Zero-Day Response: Threat Analysis & Ransomware Mitigation](https://github.com/MacUchegit/Virtual-Cybersecurity-Internship-Threat-Response-Mitigation-Project/)
   - [DATACOM : Cybersecurity Risk Assessment](https://github.com/MacUchegit/Risk-Assessment-Project-/blob/main/README.md)
