@@ -35,7 +35,7 @@ I’m a passionate Technical Support Specialist and budding Cybersecurity Profes
 
 <h2>🛡️ Certifications & Trainings</h2> 
 
-* **CompTIA Security+** *(Expected 07/25)*
+* **CompTIA Security+** *(Expected 07/26)*
 
 * *[Google Cybersecurity Professional Certificate (v2)](https://www.credly.com/badges/54404851-3d45-4788-b605-b117c7ba036c/linked_in_profile)*
   - *Skills:* Linux, MySQL, and Python hands-on labs
