@@ -19,6 +19,9 @@ I’m a passionate Technical Support Specialist and budding Cybersecurity Profes
 - <b>Forage Internship Program</b>
   - [AIG-Log4j Zero-Day Response: Threat Analysis & Ransomware Mitigation](https://github.com/MacUchegit/Virtual-Cybersecurity-Internship-Threat-Response-Mitigation-Project/)
   - [DATACOM : Cybersecurity Risk Assessment](https://github.com/MacUchegit/Risk-Assessment-Project-/blob/main/README.md)
+- <b>Cloud Security Projects</b>
+  - [AWS Network Threat Monitoring and Incident Response](https://github.com/MacUchegit/AWS-Network-Threat-Monitoring-and-Incident-Response-Lab)
+  - [AWS IAM Access Review and Contractor Offboarding](https://github.com/MacUchegit/AWS-IAM-Access-Review-and-Contractor-Offboarding)
 - <b>SIEM Analysis Projects</b>
   - [Investigating a Possible Malicious Macro Execution](https://github.com/MacUchegit/Malicious-Macro-Execution/blob/main/README.md)
   - [Detecting and Analyzing CVE-2024-24919 Exploitation](https://github.com/MacUchegit/Detecting-and-Analyzing-CVE-2024-24919-Exploitation/blob/main/README.md)
@@ -32,10 +35,11 @@ I’m a passionate Technical Support Specialist and budding Cybersecurity Profes
   - [Investigating a Possible Local File Inclusion LFI Attack](https://github.com/MacUchegit/Investigating-a-Possible-Local-File-Inclusion-LFI-Attack/blob/bb6b1399cfeb0c31e1a1f3bcbc5b44ee5b73e786/README.md)
   - [Understanding False Positives in SIEM](https://github.com/MacUchegit/False-Positive/blob/6455746c7edbffbdc49198070fe9f6775b1cfc52/README.md)
   - [Malicious File/Script Download Attempt](https://github.com/MacUchegit/Malicious-File-Script-Download-Attempt/blob/60a279dd00c0e4cd50f8f0f57c76a94a726ba99d/README.md)
-
+    
 <h2>🛡️ Certifications & Trainings</h2> 
 
-* **CompTIA Security+** *(Expected 07/26)*
+* *[CompTIA Security+](https://www.credly.com/badges/75f2b63e-73dc-4db5-8554-1b715019a0f4/linked_in_profile)*
+  - *Skills:* Access Control, Cryptography, Data Security, Threat Management, Network Security, Security Awareness
 
 * *[Google Cybersecurity Professional Certificate (v2)](https://www.credly.com/badges/54404851-3d45-4788-b605-b117c7ba036c/linked_in_profile)*
   - *Skills:* Linux, MySQL, and Python hands-on labs
