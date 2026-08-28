@@ -23,6 +23,7 @@ I’m a passionate Technical Support Specialist and budding Cybersecurity Profes
   - [AWS Network Threat Monitoring and Incident Response](https://github.com/MacUchegit/AWS-Network-Threat-Monitoring-and-Incident-Response-Lab)
   - [AWS IAM Access Review and Contractor Offboarding](https://github.com/MacUchegit/AWS-IAM-Access-Review-and-Contractor-Offboarding)
   - [Detecting and Alerting on Sensitive Credential Access in AWS](https://github.com/MacUchegit/Detecting-and-Alerting-on-Sensitive-Credential-Access-in-AWS/blob/main/README.md)
+  - [Detecting and Auto-Remediating Internet-Exposed SSH/RDP](https://github.com/MacUchegit/Detecting-and-Auto-Remediating-Internet-Exposed-SSH-RDP/blob/main/README.md)
 - <b>SIEM Analysis Projects</b>
   - [Investigating a Possible Malicious Macro Execution](https://github.com/MacUchegit/Malicious-Macro-Execution/blob/main/README.md)
   - [Detecting and Analyzing CVE-2024-24919 Exploitation](https://github.com/MacUchegit/Detecting-and-Analyzing-CVE-2024-24919-Exploitation/blob/main/README.md)
